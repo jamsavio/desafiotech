@@ -30,9 +30,9 @@ Desafio Tech (Python)
 |  api/region/:id |  GET |  READ |  Get a single region |
 |  api/region |  POST |  CREATE |  Create a new region |
 |  api/region/:id |  PUT |  UPDATE |  Update a region |
-|  api/region/:id |  DELETE |  UPDATE |  Delete a region |
+|  api/region/:id |  DELETE |  DELETE |  Delete a region |
 |  api/fruit |  GET |  READ |  Get all fruits |
 |  api/fruit/:id |  GET |  READ |  Get a single fruit |
 |  api/fruit |  POST |  CREATE |  Create a new fruit |
 |  api/fruit/:id |  PUT |  UPDATE |  Update a fruit |
-|  api/fruit/:id |  DELETE |  UPDATE |  Delete a fruit |
+|  api/fruit/:id |  DELETE |  DELETE |  Delete a fruit |
