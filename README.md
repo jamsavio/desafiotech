@@ -14,7 +14,7 @@ Desafio Tech (Python)
 
 
 
-## Instalação
+## Running the Application
 
 
 ```bash
