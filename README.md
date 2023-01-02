@@ -1,5 +1,5 @@
 
-# Frexco - Desafio Automação e Desenvolvimento de Software
+# Desafio Automação e Desenvolvimento de Software
 
 Desafio Tech (Python)
 
