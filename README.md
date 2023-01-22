@@ -18,7 +18,7 @@ Desafio Tech (Python)
 
 
 ```bash
-  cd desafiofrexco/
+  cd desafiotech/
   source venv/bin/activate
   python3 manage.py runserver
 ```
